@@ -1,0 +1,15 @@
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.deps.json
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.runtimeconfig.json
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.dll
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.pdb
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfo.cs
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.sourcelink.json
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.dll
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/refint/MyConsoleApp.dll
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.pdb
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.genruntimeconfig.cache
+/Users/Nuri Home/Desktop/CodeOP/Tech-assessment/MyConsoleApp/obj/Debug/net9.0/ref/MyConsoleApp.dll
